@@ -3,25 +3,33 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+T# Welcome to Trident Professional Services Technologies Blog
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+At **Trident Professional Services Technologies**, we believe in empowering businesses with cutting-edge solutions to navigate the ever-evolving technology landscape. Our blog is a hub of insights, tutorials, and best practices designed to help professionals harness the full potential of modern tools and platforms.
 
-More specifically, the created site:
+## What You'll Find Here
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+We cover a diverse range of topics tailored to meet the needs of IT professionals, developers, and tech enthusiasts, including:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- **Power Platform**: Learn how to build powerful apps, automate workflows, and analyze data with Power BI.
+- **Microsoft 365**: Stay up to date with the latest features, tips, and tricks for enhancing productivity.
+- **SharePoint**: Dive into expert advice on collaboration, content management, and customization.
+- **GitHub Projects**: Explore repositories, workflows, and CI/CD pipelines for efficient development.
+- **Emerging Technologies**: Discover innovative tools and trends shaping the future of tech.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Who We Are
 
-To get started with creating a site, simply:
+With over 18 years of IT expertise and a strong commitment to excellence, Trident Professional Services Technologies is led by a team of experienced professionals dedicated to delivering impactful solutions. Whether you're a seasoned expert or just starting your journey, our goal is to provide you with actionable knowledge to achieve your goals.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+---
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+**Let's explore technology together!** Be sure to subscribe, share, and engage with our content. Your feedback and ideas drive us to continually refine and expand our offerings.
+
+Stay tuned for new posts, deep dives, and hands-on guides that will take your technical skills to the next level!
+
+Happy learning,  
+**The Trident Professional Services Technologies Team**
+
 
 ----
 
