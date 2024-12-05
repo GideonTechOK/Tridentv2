@@ -1,7 +1,7 @@
 # tridentv2.gemspec
 Gem::Specification.new do |spec|
   spec.name        = 'tridentv2'
-  spec.version     = '0.1.0'
+  spec.version     = '0.1.1'
   spec.summary     = 'Summary of your gem'
   spec.description = 'Description of your gem'
   spec.authors     = ['Your Name']
